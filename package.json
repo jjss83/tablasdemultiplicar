@@ -1,0 +1,8 @@
+{
+  "name": "tablasdemultiplicar",
+  "version": "1.0.0",
+  "description": "Multiplication ninja game",
+  "scripts": {
+    "test": "echo 'No tests specified'"
+  }
+}

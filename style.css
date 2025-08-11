@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f0f0f0;
+}
+.screen {
+  padding: 20px;
+}
+.hidden {
+  display: none;
+}
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 15px 30px;
+  font-size: 20px;
+}
+.lang-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  padding: 5px 10px;
+  background: #ddd;
+}
+.lesson-row {
+  margin: 5px 0;
+}
+.block {
+  width: 20px;
+  height: 20px;
+  background: #4CAF50;
+  margin: 2px;
+  display: inline-block;
+}
+.block-group {
+  margin-right: 5px;
+  display: inline-block;
+}
+#answers button {
+  width: 80%;
+}
+#levels button {
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+}
+.progress-bar {
+  height: 20px;
+  background: lightgreen;
+  width: 0;
+}
